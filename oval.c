@@ -3,8 +3,6 @@
 
 int main() {
     int a,b,area,perimeter;
-/*a and b are the semi-majar and semi-minor axis respectively*/
-    
     printf("Enter the semi-major axis: ");
     scanf("%d", &a);
     printf("Enter the semi-minor axis: ");
